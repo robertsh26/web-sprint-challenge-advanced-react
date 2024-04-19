@@ -41,12 +41,19 @@
   },
   "dependencies": {
     "axios": "0.27.2",
+    "browserify-zlib": "^0.2.0",
     "cors": "2.8.5",
+    "crypto-browserify": "^3.12.0",
     "express": "4.18.1",
+    "fs": "^0.0.1-security",
+    "path-browserify": "^1.0.1",
+    "querystring-es3": "^0.2.1",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-router-dom": "6.3.0",
+    "stream-browserify": "^3.0.0",
     "styled-components": "5.3.5",
+    "url": "^0.11.3",
     "yup": "0.32.11"
   },
   "engines": {
